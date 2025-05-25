@@ -10,7 +10,6 @@
 [submodule "ServiceDiscovery"]
 	path = ServiceDiscovery
 	url = https://github.com/rijildaniel/ServiceDiscovery.git
-	branch = main
 [submodule "UserServiceCapstone"]
 	path = UserServiceCapstone
 	url = https://github.com/rijildaniel/UserServiceCapstone.git
